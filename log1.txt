@@ -1,0 +1,4 @@
+[CRITICAL] in payame critical hast
+[WARNING] in payame warning hast
+[CRITICAL] in payame critical hast
+[CRITICAL] in payame critical hast
